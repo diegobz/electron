@@ -27,3 +27,6 @@ script: './script/cibuild'
 branches:
   only:
     - master
+
+after_success:
+    - ./script/tx-push.sh

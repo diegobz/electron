@@ -1,0 +1,712 @@
+[main]
+host = https://www.transifex.com
+lang_map = fr_BR:fr-FR, it_IT:it-IT, ko_KR:ko-KR, pt_BR:pt-BR, ru_RU:ru-RU, th_TH:th-TH, tr-TR:tr_TR, uk_UA:uk-UA, zh_CN:zh-CN, zh_TW:zh-TW
+
+[electron.docs_faq]
+file_filter = docs-locale/<lang>/faq.md
+source_file = docs/faq.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_glossary]
+file_filter = docs-locale/<lang>/glossary.md
+source_file = docs/glossary.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_README]
+file_filter = docs-locale/<lang>/README.md
+source_file = docs/README.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_styleguide]
+file_filter = docs-locale/<lang>/styleguide.md
+source_file = docs/styleguide.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_accelerator]
+file_filter = docs-locale/<lang>/api/accelerator.md
+source_file = docs/api/accelerator.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_app]
+file_filter = docs-locale/<lang>/api/app.md
+source_file = docs/api/app.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_auto-updater]
+file_filter = docs-locale/<lang>/api/auto-updater.md
+source_file = docs/api/auto-updater.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_browser-window-proxy]
+file_filter = docs-locale/<lang>/api/browser-window-proxy.md
+source_file = docs/api/browser-window-proxy.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_browser-window]
+file_filter = docs-locale/<lang>/api/browser-window.md
+source_file = docs/api/browser-window.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_chrome-command-line-switches]
+file_filter = docs-locale/<lang>/api/chrome-command-line-switches.md
+source_file = docs/api/chrome-command-line-switches.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_client-request]
+file_filter = docs-locale/<lang>/api/client-request.md
+source_file = docs/api/client-request.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_clipboard]
+file_filter = docs-locale/<lang>/api/clipboard.md
+source_file = docs/api/clipboard.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_content-tracing]
+file_filter = docs-locale/<lang>/api/content-tracing.md
+source_file = docs/api/content-tracing.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_cookies]
+file_filter = docs-locale/<lang>/api/cookies.md
+source_file = docs/api/cookies.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_crash-reporter]
+file_filter = docs-locale/<lang>/api/crash-reporter.md
+source_file = docs/api/crash-reporter.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_debugger]
+file_filter = docs-locale/<lang>/api/debugger.md
+source_file = docs/api/debugger.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_desktop-capturer]
+file_filter = docs-locale/<lang>/api/desktop-capturer.md
+source_file = docs/api/desktop-capturer.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_dialog]
+file_filter = docs-locale/<lang>/api/dialog.md
+source_file = docs/api/dialog.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_download-item]
+file_filter = docs-locale/<lang>/api/download-item.md
+source_file = docs/api/download-item.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_environment-variables]
+file_filter = docs-locale/<lang>/api/environment-variables.md
+source_file = docs/api/environment-variables.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_file-object]
+file_filter = docs-locale/<lang>/api/file-object.md
+source_file = docs/api/file-object.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_frameless-window]
+file_filter = docs-locale/<lang>/api/frameless-window.md
+source_file = docs/api/frameless-window.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_global-shortcut]
+file_filter = docs-locale/<lang>/api/global-shortcut.md
+source_file = docs/api/global-shortcut.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_incoming-message]
+file_filter = docs-locale/<lang>/api/incoming-message.md
+source_file = docs/api/incoming-message.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_ipc-main]
+file_filter = docs-locale/<lang>/api/ipc-main.md
+source_file = docs/api/ipc-main.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_ipc-renderer]
+file_filter = docs-locale/<lang>/api/ipc-renderer.md
+source_file = docs/api/ipc-renderer.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_locales]
+file_filter = docs-locale/<lang>/api/locales.md
+source_file = docs/api/locales.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_menu-item]
+file_filter = docs-locale/<lang>/api/menu-item.md
+source_file = docs/api/menu-item.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_menu]
+file_filter = docs-locale/<lang>/api/menu.md
+source_file = docs/api/menu.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_native-image]
+file_filter = docs-locale/<lang>/api/native-image.md
+source_file = docs/api/native-image.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_net]
+file_filter = docs-locale/<lang>/api/net.md
+source_file = docs/api/net.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_power-monitor]
+file_filter = docs-locale/<lang>/api/power-monitor.md
+source_file = docs/api/power-monitor.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_power-save-blocker]
+file_filter = docs-locale/<lang>/api/power-save-blocker.md
+source_file = docs/api/power-save-blocker.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_process]
+file_filter = docs-locale/<lang>/api/process.md
+source_file = docs/api/process.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_protocol]
+file_filter = docs-locale/<lang>/api/protocol.md
+source_file = docs/api/protocol.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_remote]
+file_filter = docs-locale/<lang>/api/remote.md
+source_file = docs/api/remote.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_screen]
+file_filter = docs-locale/<lang>/api/screen.md
+source_file = docs/api/screen.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_session]
+file_filter = docs-locale/<lang>/api/session.md
+source_file = docs/api/session.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_shell]
+file_filter = docs-locale/<lang>/api/shell.md
+source_file = docs/api/shell.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_synopsis]
+file_filter = docs-locale/<lang>/api/synopsis.md
+source_file = docs/api/synopsis.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_system-preferences]
+file_filter = docs-locale/<lang>/api/system-preferences.md
+source_file = docs/api/system-preferences.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-button]
+file_filter = docs-locale/<lang>/api/touch-bar-button.md
+source_file = docs/api/touch-bar-button.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-color-picker]
+file_filter = docs-locale/<lang>/api/touch-bar-color-picker.md
+source_file = docs/api/touch-bar-color-picker.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-group]
+file_filter = docs-locale/<lang>/api/touch-bar-group.md
+source_file = docs/api/touch-bar-group.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-label]
+file_filter = docs-locale/<lang>/api/touch-bar-label.md
+source_file = docs/api/touch-bar-label.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-popover]
+file_filter = docs-locale/<lang>/api/touch-bar-popover.md
+source_file = docs/api/touch-bar-popover.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-segmented-control]
+file_filter = docs-locale/<lang>/api/touch-bar-segmented-control.md
+source_file = docs/api/touch-bar-segmented-control.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-slider]
+file_filter = docs-locale/<lang>/api/touch-bar-slider.md
+source_file = docs/api/touch-bar-slider.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar-spacer]
+file_filter = docs-locale/<lang>/api/touch-bar-spacer.md
+source_file = docs/api/touch-bar-spacer.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_touch-bar]
+file_filter = docs-locale/<lang>/api/touch-bar.md
+source_file = docs/api/touch-bar.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_tray]
+file_filter = docs-locale/<lang>/api/tray.md
+source_file = docs/api/tray.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_web-contents]
+file_filter = docs-locale/<lang>/api/web-contents.md
+source_file = docs/api/web-contents.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_web-frame]
+file_filter = docs-locale/<lang>/api/web-frame.md
+source_file = docs/api/web-frame.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_web-request]
+file_filter = docs-locale/<lang>/api/web-request.md
+source_file = docs/api/web-request.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_webview-tag]
+file_filter = docs-locale/<lang>/api/webview-tag.md
+source_file = docs/api/webview-tag.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_window-open]
+file_filter = docs-locale/<lang>/api/window-open.md
+source_file = docs/api/window-open.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_bluetooth-device]
+file_filter = docs-locale/<lang>/api/structures/bluetooth-device.md
+source_file = docs/api/structures/bluetooth-device.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_certificate-principal]
+file_filter = docs-locale/<lang>/api/structures/certificate-principal.md
+source_file = docs/api/structures/certificate-principal.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_certificate]
+file_filter = docs-locale/<lang>/api/structures/certificate.md
+source_file = docs/api/structures/certificate.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_cookie]
+file_filter = docs-locale/<lang>/api/structures/cookie.md
+source_file = docs/api/structures/cookie.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_crash-report]
+file_filter = docs-locale/<lang>/api/structures/crash-report.md
+source_file = docs/api/structures/crash-report.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_desktop-capturer-source]
+file_filter = docs-locale/<lang>/api/structures/desktop-capturer-source.md
+source_file = docs/api/structures/desktop-capturer-source.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_display]
+file_filter = docs-locale/<lang>/api/structures/display.md
+source_file = docs/api/structures/display.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_file-filter]
+file_filter = docs-locale/<lang>/api/structures/file-filter.md
+source_file = docs/api/structures/file-filter.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_jump-list-category]
+file_filter = docs-locale/<lang>/api/structures/jump-list-category.md
+source_file = docs/api/structures/jump-list-category.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_jump-list-item]
+file_filter = docs-locale/<lang>/api/structures/jump-list-item.md
+source_file = docs/api/structures/jump-list-item.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_memory-usage-details]
+file_filter = docs-locale/<lang>/api/structures/memory-usage-details.md
+source_file = docs/api/structures/memory-usage-details.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_mime-typed-buffer]
+file_filter = docs-locale/<lang>/api/structures/mime-typed-buffer.md
+source_file = docs/api/structures/mime-typed-buffer.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_rectangle]
+file_filter = docs-locale/<lang>/api/structures/rectangle.md
+source_file = docs/api/structures/rectangle.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_remove-client-certificate]
+file_filter = docs-locale/<lang>/api/structures/remove-client-certificate.md
+source_file = docs/api/structures/remove-client-certificate.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_remove-password]
+file_filter = docs-locale/<lang>/api/structures/remove-password.md
+source_file = docs/api/structures/remove-password.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_segmented-control-segment]
+file_filter = docs-locale/<lang>/api/structures/segmented-control-segment.md
+source_file = docs/api/structures/segmented-control-segment.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_shortcut-details]
+file_filter = docs-locale/<lang>/api/structures/shortcut-details.md
+source_file = docs/api/structures/shortcut-details.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_task]
+file_filter = docs-locale/<lang>/api/structures/task.md
+source_file = docs/api/structures/task.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_thumbar-button]
+file_filter = docs-locale/<lang>/api/structures/thumbar-button.md
+source_file = docs/api/structures/thumbar-button.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_upload-blob]
+file_filter = docs-locale/<lang>/api/structures/upload-blob.md
+source_file = docs/api/structures/upload-blob.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_upload-data]
+file_filter = docs-locale/<lang>/api/structures/upload-data.md
+source_file = docs/api/structures/upload-data.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_upload-file-system]
+file_filter = docs-locale/<lang>/api/structures/upload-file-system.md
+source_file = docs/api/structures/upload-file-system.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_upload-file]
+file_filter = docs-locale/<lang>/api/structures/upload-file.md
+source_file = docs/api/structures/upload-file.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_api_structures_upload-raw-data]
+file_filter = docs-locale/<lang>/api/structures/upload-raw-data.md
+source_file = docs/api/structures/upload-raw-data.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_atom-shell-vs-node-webkit]
+file_filter = docs-locale/<lang>/development/atom-shell-vs-node-webkit.md
+source_file = docs/development/atom-shell-vs-node-webkit.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_build-instructions-linux]
+file_filter = docs-locale/<lang>/development/build-instructions-linux.md
+source_file = docs/development/build-instructions-linux.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_build-instructions-osx]
+file_filter = docs-locale/<lang>/development/build-instructions-osx.md
+source_file = docs/development/build-instructions-osx.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_build-instructions-windows]
+file_filter = docs-locale/<lang>/development/build-instructions-windows.md
+source_file = docs/development/build-instructions-windows.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_build-system-overview]
+file_filter = docs-locale/<lang>/development/build-system-overview.md
+source_file = docs/development/build-system-overview.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_clang-format]
+file_filter = docs-locale/<lang>/development/clang-format.md
+source_file = docs/development/clang-format.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_coding-style]
+file_filter = docs-locale/<lang>/development/coding-style.md
+source_file = docs/development/coding-style.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_debug-instructions-windows]
+file_filter = docs-locale/<lang>/development/debug-instructions-windows.md
+source_file = docs/development/debug-instructions-windows.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_debugging-instructions-macos]
+file_filter = docs-locale/<lang>/development/debugging-instructions-macos.md
+source_file = docs/development/debugging-instructions-macos.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_releasing]
+file_filter = docs-locale/<lang>/development/releasing.md
+source_file = docs/development/releasing.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_setting-up-symbol-server]
+file_filter = docs-locale/<lang>/development/setting-up-symbol-server.md
+source_file = docs/development/setting-up-symbol-server.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_source-code-directory-structure]
+file_filter = docs-locale/<lang>/development/source-code-directory-structure.md
+source_file = docs/development/source-code-directory-structure.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_development_upgrading-chrome]
+file_filter = docs-locale/<lang>/development/upgrading-chrome.md
+source_file = docs/development/upgrading-chrome.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_about]
+file_filter = docs-locale/<lang>/tutorial/about.md
+source_file = docs/tutorial/about.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_accessibility]
+file_filter = docs-locale/<lang>/tutorial/accessibility.md
+source_file = docs/tutorial/accessibility.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_application-distribution]
+file_filter = docs-locale/<lang>/tutorial/application-distribution.md
+source_file = docs/tutorial/application-distribution.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_application-packaging]
+file_filter = docs-locale/<lang>/tutorial/application-packaging.md
+source_file = docs/tutorial/application-packaging.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_debugging-main-process-node-inspector]
+file_filter = docs-locale/<lang>/tutorial/debugging-main-process-node-inspector.md
+source_file = docs/tutorial/debugging-main-process-node-inspector.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_debugging-main-process-vscode]
+file_filter = docs-locale/<lang>/tutorial/debugging-main-process-vscode.md
+source_file = docs/tutorial/debugging-main-process-vscode.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_debugging-main-process]
+file_filter = docs-locale/<lang>/tutorial/debugging-main-process.md
+source_file = docs/tutorial/debugging-main-process.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_desktop-environment-integration]
+file_filter = docs-locale/<lang>/tutorial/desktop-environment-integration.md
+source_file = docs/tutorial/desktop-environment-integration.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_devtools-extension]
+file_filter = docs-locale/<lang>/tutorial/devtools-extension.md
+source_file = docs/tutorial/devtools-extension.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_electron-versioning]
+file_filter = docs-locale/<lang>/tutorial/electron-versioning.md
+source_file = docs/tutorial/electron-versioning.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_keyboard-shortcuts]
+file_filter = docs-locale/<lang>/tutorial/keyboard-shortcuts.md
+source_file = docs/tutorial/keyboard-shortcuts.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_mac-app-store-submission-guide]
+file_filter = docs-locale/<lang>/tutorial/mac-app-store-submission-guide.md
+source_file = docs/tutorial/mac-app-store-submission-guide.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_offscreen-rendering]
+file_filter = docs-locale/<lang>/tutorial/offscreen-rendering.md
+source_file = docs/tutorial/offscreen-rendering.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_online-offline-events]
+file_filter = docs-locale/<lang>/tutorial/online-offline-events.md
+source_file = docs/tutorial/online-offline-events.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_planned-breaking-changes]
+file_filter = docs-locale/<lang>/tutorial/planned-breaking-changes.md
+source_file = docs/tutorial/planned-breaking-changes.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_quick-start]
+file_filter = docs-locale/<lang>/tutorial/quick-start.md
+source_file = docs/tutorial/quick-start.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_repl]
+file_filter = docs-locale/<lang>/tutorial/repl.md
+source_file = docs/tutorial/repl.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_security]
+file_filter = docs-locale/<lang>/tutorial/security.md
+source_file = docs/tutorial/security.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_supported-platforms]
+file_filter = docs-locale/<lang>/tutorial/supported-platforms.md
+source_file = docs/tutorial/supported-platforms.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_testing-on-headless-ci]
+file_filter = docs-locale/<lang>/tutorial/testing-on-headless-ci.md
+source_file = docs/tutorial/testing-on-headless-ci.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_using-native-node-modules]
+file_filter = docs-locale/<lang>/tutorial/using-native-node-modules.md
+source_file = docs/tutorial/using-native-node-modules.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_using-pepper-flash-plugin]
+file_filter = docs-locale/<lang>/tutorial/using-pepper-flash-plugin.md
+source_file = docs/tutorial/using-pepper-flash-plugin.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_using-selenium-and-webdriver]
+file_filter = docs-locale/<lang>/tutorial/using-selenium-and-webdriver.md
+source_file = docs/tutorial/using-selenium-and-webdriver.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_using-widevine-cdm-plugin]
+file_filter = docs-locale/<lang>/tutorial/using-widevine-cdm-plugin.md
+source_file = docs/tutorial/using-widevine-cdm-plugin.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[electron.docs_tutorial_windows-store-guide]
+file_filter = docs-locale/<lang>/tutorial/windows-store-guide.md
+source_file = docs/tutorial/windows-store-guide.md
+source_lang = en
+type = GITHUBMARKDOWN
+
